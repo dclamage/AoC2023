@@ -8,7 +8,7 @@ Advent of Code is an annual event where programmers can solve daily puzzles to e
 
 ## Structure
 
-Each day's solution is in a separate directory named `aoc2023-dayXX` where `XX` is the day number. Inside each directory, you'll find `main.rs`, which contain the solutions for parts 1 and 2 of that day's problem.
+Each day's solution is in a separate directory named `aoc2023-dayXX` where `XX` is the day number. Inside each directory, you'll find `src/main.rs`, which contain the solutions for both parts of that day's problem.
 
 ## Running the Solutions
 
