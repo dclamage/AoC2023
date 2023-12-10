@@ -18,3 +18,11 @@ To run a solution, navigate to the directory of the day and run using `cargo`. F
 cd aoc2023-day1
 cargo run --release
 ```
+
+## Disclaimer
+
+These solutions are provided "as is" and there is no guarantee that they are correct or optimal. They are meant to be a learning resource and should not be used to cheat.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
